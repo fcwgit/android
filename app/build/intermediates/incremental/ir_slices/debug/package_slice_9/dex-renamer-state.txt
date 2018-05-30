@@ -1,0 +1,4 @@
+#Wed May 30 11:06:49 CST 2018
+base.0=/Users/fanchengwei/Desktop/weex/weexDemo/platforms/android/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
